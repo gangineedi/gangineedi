@@ -6,4 +6,4 @@ def multiply(*args):
 print(multiply(2, 3, 4))  
 print(multiply(1.5, 2, 10))  
 print(multiply(5))  
-print(multiply())  
+print(multiply())
